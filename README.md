@@ -1,3 +1,5 @@
+Simple React App - Youtube search - fetching videos from youtube api and displaying it on the UI
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
